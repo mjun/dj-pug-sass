@@ -105,3 +105,7 @@ venv.bak/
 
 # IntelliJ
 .idea/
+
+# Exlude top-level django media and static dirs
+/static
+/media

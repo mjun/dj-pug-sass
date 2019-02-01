@@ -1,2 +1,4 @@
 django==2.2a1
 pypugjs==5.7.2
+django-sass-processor==0.7.2
+libsass==0.17
